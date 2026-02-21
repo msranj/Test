@@ -1,8 +1,9 @@
 #### AI can now do market research like McKinsey (for free).
 #### Here are 12 insane Claude Opus 4.6 prompts that replace $5,000 consultant: (Save for later) 
-Reference: ![Muhammad Ayan](https://x.com/socialwithaayan/status/2021233357514997824)
 
-1 / Market Sizing & TAM Analysis
+##### Reference: Muhammad Ayan (https://x.com/socialwithaayan/status/2021233357514997824)
+
+### 1 / Market Sizing & TAM Analysis
 
 You are a McKinsey-level market analyst. I need a Total Addressable Market (TAM) analysis for [YOUR INDUSTRY/PRODUCT].
 
@@ -22,7 +23,7 @@ Context: My product is [DESCRIBE PRODUCT], targeting [TARGET CUSTOMER] in [GEOGR
 ---------------------------------------------
 
 
-2/ Competitive Landscape Deep Dive
+### 2/ Competitive Landscape Deep Dive
 
 You are a senior strategy consultant at Bain & Company. I need a complete competitive landscape analysis for [YOUR INDUSTRY].
 
@@ -43,7 +44,7 @@ My company: [DESCRIBE YOUR BUSINESS AND POSITIONING]
 ---------------------------------------------
 
 
-3/ Customer Persona & Segmentation
+### 3/ Customer Persona & Segmentation
 
 You are a world-class consumer research expert. I need deep customer personas for [YOUR PRODUCT/SERVICE].
 
@@ -65,7 +66,7 @@ My product: [DESCRIBE PRODUCT] in [INDUSTRY]
 
 ---------------------------------------------
 
-4/ Industry Trend Analysis
+### 4/ Industry Trend Analysis
 
 You are a senior analyst at Goldman Sachs Research. I need a comprehensive trend report for the [YOUR INDUSTRY] sector.
 
@@ -86,7 +87,7 @@ My company operates in: [DESCRIBE YOUR BUSINESS AND MARKET]
 
 ---------------------------------------------
 
-5/ SWOT + Porter's Five Forces
+### 5/ SWOT + Porter's Five Forces
 
 You are a Harvard Business School strategy professor. I need a combined SWOT and Porter's Five Forces analysis for [YOUR COMPANY/PRODUCT].
 
@@ -112,7 +113,7 @@ My business: [DESCRIBE COMPANY, PRODUCT, INDUSTRY, STAGE]
 
 
 ---------------------------------------------
-6/ Pricing Strategy Analysis
+### 6/ Pricing Strategy Analysis
 
 You are a pricing strategy consultant who has worked with Fortune 500 companies. I need a comprehensive pricing analysis for [YOUR PRODUCT/SERVICE].
 
@@ -133,7 +134,7 @@ Format as a pricing strategy deck with specific dollar recommendations.
 My product: [DESCRIBE PRODUCT, CURRENT PRICE, TARGET CUSTOMER, COST STRUCTURE]
 
 ---------------------------------------------
-7/ Go-To-Market Strategy
+### 7/ Go-To-Market Strategy
 
 You are a Chief Strategy Officer who has launched 20+ products across B2B and B2C markets. I need a complete go-to-market plan for [YOUR PRODUCT].
 
@@ -154,7 +155,7 @@ Format as an actionable GTM playbook with timelines and owners.
 My product: [DESCRIBE PRODUCT, MARKET, BUDGET, TIMELINE]
 
 ---------------------------------------------
-9/ Financial Modeling & Unit Economics
+### 9/ Financial Modeling & Unit Economics
 
 You are a VP of Finance at a high-growth startup. I need a complete unit economics and financial model for [YOUR BUSINESS].
 
@@ -185,7 +186,7 @@ Format as a financial model summary with clear tables and formulas.
 My business: [DESCRIBE BUSINESS MODEL, CURRENT REVENUE, COSTS, GROWTH RATE]
 
 ---------------------------------------------
-10/ Risk Assessment & Scenario Planning
+### 10/ Risk Assessment & Scenario Planning
 
 You are a risk management partner at Deloitte. I need a comprehensive risk analysis and scenario plan for [YOUR BUSINESS/PROJECT].
 
@@ -222,7 +223,7 @@ My business context: [DESCRIBE BUSINESS, STAGE, KEY DEPENDENCIES]
 
 
 ---------------------------------------------
-11/ Market Entry & Expansion Strategy
+### 11/ Market Entry & Expansion Strategy
 
 You are a global expansion strategist who has helped companies enter 30+ new markets. I need a market entry analysis for expanding [YOUR BUSINESS] into [TARGET MARKET/GEOGRAPHY/SEGMENT].
 
@@ -264,7 +265,7 @@ My business: [DESCRIBE CURRENT BUSINESS, TARGET MARKET, AVAILABLE RESOURCES]
 
 ---------------------------------------------
 
-12/ Executive Strategy Synthesis (The Master Prompt)
+### 12/ Executive Strategy Synthesis (The Master Prompt)
 
 You are the senior partner at McKinsey & Company presenting to a CEO. I need you to synthesize everything about [YOUR BUSINESS] into one strategic recommendation.
 
