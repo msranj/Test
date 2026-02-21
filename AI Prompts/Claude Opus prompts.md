@@ -9,12 +9,12 @@ You are a McKinsey-level market analyst. I need a Total Addressable Market (TAM)
 
 Please provide:
 
-• Top-down approach: Start from global market → narrow to my segment
-• Bottom-up approach: Calculate from unit economics × potential customers
-• TAM, SAM, SOM breakdown with dollar figures
-• Growth rate projections for the next 5 years (CAGR)
-• Key assumptions behind each estimate
-• Comparison to 3 analyst reports or market research firms
+- Top-down approach: Start from global market → narrow to my segment
+- Bottom-up approach: Calculate from unit economics × potential customers
+- TAM, SAM, SOM breakdown with dollar figures
+- Growth rate projections for the next 5 years (CAGR)
+- Key assumptions behind each estimate
+- Comparison to 3 analyst reports or market research firms
 
 Format as an investor-ready market sizing slide with clear methodology.
 
