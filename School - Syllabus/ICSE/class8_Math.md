@@ -279,26 +279,6 @@ Area Propositions
 1) Figures on the Same Base
 2) Some Propositions
 ```
-### 
-```
-
-```
-### 
-```
-
-```
-### 
-```
-
-```
-### 
-```
-
-```
-### 
-```
-
-```
 
 
 
