@@ -7,7 +7,7 @@ Reference:
 
 **1. Natural Numbers**
 ```
-    are the set of numbers we use for counting numbers starting from one. The set of natural numbers is denoted by the letter (N) Thus N = {1,2,3,4,5...}
+    are the set of numbers we use for counting numbers starting from one. The set of natural numbers is denoted by the letter (N).
  
     **Examples**: N = (1, 2, 3, 4, 5)
     
@@ -31,14 +31,14 @@ Rule: They have no fractions or decimals.
 **4. Rational Numbers**
 ```
 Numbers you can write as a simple fraction of two integers.
-**Examples**: \(\frac{1}{2}, -\frac{3}{4}, 5, 0.75\)
+**Examples**: (1\{2}, -3\4, 5, 0.75)
 
-Rule: Decimal forms either stop or repeat in a pattern.
+Rule: Decimal forms either stop or repeat in a pattern. includes negative number.
 ```
 
 **5. Irrational Numbers**
 ```
-Numbers you cannot write as a simple fraction.**Examples**: \(\pi \) (pi), \(\sqrt{2}, \sqrt{3}\)
+Numbers you cannot write as a simple fraction.**Examples**: \((pi), (sqrt{2}, sqrt{3})
 
 Rule: Decimal forms go on forever without a repeating pattern.
 ```
