@@ -18,7 +18,7 @@ Rule: They start at zero and go up forever.
 3. Integers
 ```
 What they are: Whole numbers plus negative numbers.
-Examples: \(\dots -3, -2, -1, 0, 1, 2, 3 \dots\)
+Examples: ( -3, -2, -1, 0, 1, 2, 3)
 Rule: They have no fractions or decimals.
 ```
 4. Rational Numbers
