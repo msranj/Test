@@ -1,10 +1,8 @@
 # Markitdown installation tool
-Reference : 
-- https://github.com/madsondeluna/pdf-to-markdown
 
 
 
-Steps
+Steps to install in local machine
 ------
 1: install python anywhere in the local system.  
 2: create virtual env in python.
@@ -25,5 +23,8 @@ CMD: F:\Try_Python\.venv\Scripts\Activate.ps1
     pip install 'markitdown[all]'
 ```
 
-
+Steps to install in Google Colab portal
+------
+Reference : 
+- https://github.com/madsondeluna/pdf-to-markdown
 
