@@ -30,7 +30,7 @@ Rule: They have no fractions or decimals.
 ```
 **4. Rational Numbers**
 ```
-Numbers you can write as a simple fraction of two integers.
+Numbers you can write as a simple fraction of two integers. can also have negative numbers.
 **Examples**: (1\{2}, -3\4, 5, 0.75)
 
 Rule: Decimal forms either stop or repeat in a pattern. includes negative number.
