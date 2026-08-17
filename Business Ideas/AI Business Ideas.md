@@ -54,6 +54,33 @@ AI-driven design, video, and branding at hAIf the cost.
 
 
 
+AI Micro-SaaS
+--------------------------------
+### Develop niche Al tools.
+### Charge $29-$99 per month.
+
+```
+01 AI resume optimizer
+
+02 Meeting agenda creator
+
+03 Competitor tracking tool
+
+04 Review reply generator
+
+05 AI invoice builder
+
+06 Contract summarizer
+
+07 Hashtag research assistant
+
+08 AI meal planner
+
+09 Listing description writer
+
+10 Feedback analyzer
+```
+
 
 
 
