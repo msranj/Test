@@ -82,6 +82,32 @@ AI Micro-SaaS
 ```
 
 
+AI Education
+------------------------
+#### Teach people how to leverage Al.
+#### Demand is skyrocketing.
+```
+01 ChatGPT basics
+
+02 AI for real estate professionals
+
+03 AI tools for teachers
+
+04 Prompt engineering training
+
+05 AI for small businesses
+
+06 No-code Al app building
+
+07 AI for content creators
+
+08 Automation workshops
+
+09 AI for sales teams
+ 
+10 Corporate AI training
+```
+
 
 
 
