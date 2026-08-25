@@ -89,4 +89,3 @@ Prealgebra Lecture 10.2:  Properties of Exponents in Polynomials. Multiplying Po
 
 Prealgebra Lecture 10.3:  Multiplying Polynomials by the Distributive Property.	https://www.youtube.com/watch?v=yVhG1eMGUVU&list=PL4C9296DF81B9EF13&index=44  
 
-<img width="1462" height="1057" alt="image" src="https://github.com/user-attachments/assets/f96516d9-ae13-4a15-9800-67b29e7ec1fd" />
