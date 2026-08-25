@@ -1,12 +1,9 @@
-courtesy: https://www.polymathinvestor.com/p/how-to-research-anything
-
-[
+Courtesy: 
+- https://www.polymathinvestor.com/p/how-to-research-anything
 
 ![](https://substackcdn.com/image/fetch/$s_!NaUj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb969a224-5cc6-47ae-ae91-31714095c5f6_764x629.png)
 
-](https://substackcdn.com/image/fetch/$s_!NaUj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb969a224-5cc6-47ae-ae91-31714095c5f6_764x629.png)
 
-\[Printable PDF available at the end.\]
 
 You can pursue genuine intellectual curiosity with a full-time job and scattered hours. I mean actual research that produces insights you can’t find anywhere else.
 
