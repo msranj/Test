@@ -13,11 +13,8 @@ I’ve done dozens of deep-dive research projects in the margins of a busy life.
 
 If you’ve felt the itch to truly understand something but don’t know where to start or when to finish, here’s the system I use.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!G_jP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F794d39f8-e64e-4370-a7e6-75230a19f86d_3400x2013.png)
 
-](https://substackcdn.com/image/fetch/$s_!G_jP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F794d39f8-e64e-4370-a7e6-75230a19f86d_3400x2013.png)
 
 **Pursue that itch you can’t ignore.** I focus on questions that genuinely excite me or nag at me during daily life. Curiosity is the fuel I need when energy and time are scarce. If a topic doesn’t spark that inner fire, it will be hard to sustain. So I don’t force it. I find something that does.
 
