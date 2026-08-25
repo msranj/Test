@@ -82,9 +82,66 @@ Turns out I had enough information to start. And I could learn more from iterati
 
 There is one difference though. Instead of paying for more information like before, I started paying for personalised help contextual to my situation. This combination has become deadly. It’s enabled me to get 1B+ views on my content.
 
+This part is controversial as hell
+-------------------
+Up until this point it’s all cookie-cutter and kumbaya. You’re probably thinking, “That Tim guy is a standout guy.”
+Hold your horses, cowboy.
+
+I must let you down. I’m not here to blow your whistle or tell you what you want to hear. I’m hear to see you change. That means I gotta share the hard part.
+
+Learning from experience and experiments is good. It’s level one stuff. But there’s level two. It’s where the learning goes from a 5/100 to 999/1000. Ready?
+
+```
+Real learning comes from taking risks, embarrassment, facing uncertainty, and dealing with failure.
+```
+The problem with information gatherers is they’re stuck in a comfort bubble. They think they’re learning. They’re taking a few small actions, but their progress is nonexistent. So they consume more information.
+
+That’s not the answer.
+
+As an anti-guru, I’ve learned real learning only comes from circumstances involving negative emotions. I learned nothing in business until I lost everything. I learned nothing about investing until my digital wallet got hacked for $1.2M – in the years preceding, I made more than $6M from that loss.
+
+I didn’t learn about love until I went through multiple painful breakups and my wife-to-be exited the car in the middle of the highway and never returned.
+
+I didn’t learn about the music industry until I worked as a DJ in a strip club and got played by nightclub owners.
+I didn’t learn about banking risk until my client was caught at the ATM with $100K in cash attempting to launder drug money. And none of us learned about the power of governments until we were locked in our homes in 2020 because of a bat virus.
+
+Here’s what you don’t want to hear:
+True learning happens when something bad happens. Avoiding bad outcomes or not taking risks is the real barrier to wisdom.
+
+I love to see people fail or get rejected because that’s how I know they’re learning.
+
+Most information you consume presents the ideal circumstances. But when you act on information, you experience the opposite. Nothing is ideal. Everything is f*cked. Your balls are on fire every day.
 
 
+## One negative emotion is all it takes
 
+I spoke to a lady from Japan the other day.
+
+She told me how she didn’t want to get help with her business because she bought a blogging course in 2018 for $500 and it didn’t work out great. So she's been stuck for 8 years — paralyzed by a single bad experience.
+This is how most people live.
+
+They expect everything to work out. And when one tiny failure happens or they experience a teaspoon of negative emotions, they stop everything and usually never get back on the horse and ride again.
+
+Real learning is a series of negative emotions that you must be willing to experience.
+
+## This is what it all boils down to for you
+
+The solution Sahil Bloom suggests is this:
+
+Stop looking for more information and start acting on the information you already have. Get your dopamine from action.
+
+When your dopamine comes from the right place, your brain’s reward system is working for you, not against you.
+You probably have enough information to take action already. Use a minimum viable level of information to take some actions. Learn from those and add personalized help along the way so you’re not trapped in a bubble of your own awesomeness.
+
+Taking action decreases confusion because you see what works for yourself. And without evidence something works, you won’t invest the time to repeatedly do it. Because you can see me do it, but you’ll still think, “Yeah, but will it work for me?”
+
+You gotta act to find out. And your own experience is always going to be the most trustworthy in a world of shonky gurus and bad AI answers.
+
+Oh, and go out there and sh*t in your pants so you can experience the thrill of embarrassment and your whole day not going as planned.
+
+Be honest — what's the one thing you already know you should be doing, but have been "researching" for way too long? Drop it in the comments. No judgment. Just accountability.
+
+If you found this helpful:
 
 
 
