@@ -38,6 +38,8 @@ That’s great. I’m not speaking to you (and I partially think you’re lying 
 
 I’m speaking to those who understand the psychology of true enjoyment, and can’t stand the thought of: one third of life doing work you didn’t choose, one third of life mentally exhausted to do anything worthwhile, and one third of life asleep... for 40+ years.
 
+![graph](image.png)
+
 You see, enjoyment, meaning, and fulfillment come from living at the edge of your abilities. This is pretty well studied. No I won’t cite sources. Enjoyment comes from pursuing a challenge just above your skill level. Not so challenging that you get anxious, and not so underwhelming that you get bored. Video games exploit this. You take on quests that are just challenging enough, because if you were a level 1 character doing a level 100 quest, you would die immediately and hate the game. This is the single greatest driving factor of getting into the flow state, and if you can create a life structure that increases the likelihood of this flow trigger, enjoyment is abundant.
 
 The thing about jobs is that after a few months, you know everything you need to know. You just clock in, do the tasks, and clock out. You get bored. It’s against your nature. You feel it. Your attention is no longer immersed in the tasks and shifts toward, “What else could I be doing?” For most people, that “what else” doesn’t involve a meaningful goal. It involves opening your phone and rotting your brain. It is very rare that a job requires you to consistently improve your skill to match a greater challenge.
@@ -103,6 +105,8 @@ The 5 ingredients above actually boil down into two skills: the ability to figur
 > AI so far is really great at asset creation, but hit creation is not asset creation. Asset creation is a necessary but insufficient condition for hit creation. Anyone could make a video game last week like anyone could make a video game 5 years ago. The technology is readily available. It’s commoditized. You know how many mobile games get put out a year? Thousands. You know how many hits are made in a year? Zero to five. – Strauss Zelnick
 
 Anyone can build anything now, meaning that the barrier of entry for entrepreneurship (the antidote to wage slavery) continues to get lower, but that doesn’t really matter:
+
+![chart](image-1.png)
 
 You, right now, can go and build an app.
 
@@ -181,6 +185,8 @@ How did people figure things out before the internet? Before “how-to” guides
 They tried. They failed. They didn’t let failure convince them into believing it was impossible, or disorient them to the point of indulging in quick pleasure. They set a new direction according to the feedback reality had given them. And eventually, they found the needle in the haystack.
 
 Because the mark of an intelligent system is that they course correct according to feedback. They have a lighthouse, and they don’t quit when they get blown off course.
+
+![analogy](image-2.png)
 
 When I talk about entrepreneurship, this is what I mean.
 
