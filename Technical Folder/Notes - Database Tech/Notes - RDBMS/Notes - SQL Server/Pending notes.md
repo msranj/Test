@@ -1,0 +1,14 @@
+- Topics: SQL Server / Troubleshooting
+- Topics: SQL Server / Performance Tuning
+- Topics: New Features (SQL Server)
+- Topics : SQL Server / High availability
+- Topics: Database Migrations
+- SQL Server Scripts : EMERGENCY
+- / ETL : Tutorials
+- Topics: CI/CD
+- Tracker: / TSQL
+- Tracker: Devops
+- Topics: Database Devops
+- 
+- 
+
