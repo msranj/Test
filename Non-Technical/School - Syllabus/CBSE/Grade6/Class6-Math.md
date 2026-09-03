@@ -1,9 +1,5 @@
 # Class 6 Maths — All Concepts Explained Simply
 
-
-
-
-
 ## Chapter 7: Fractions
 
 *(Already covered in detail in your earlier tutorial — summary below; see the full "Class6_Fractions_Tutorial.pdf" for diagrams and practice questions.)*
