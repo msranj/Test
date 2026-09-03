@@ -1,16 +1,4 @@
 # Class 6 Maths — All Concepts Explained Simply
-### Based on NCERT *Ganita Prakash*, Grade 6 (2026-27 syllabus)
-
-
----
-
-## How to use this guide
-Each of the 10 chapters below is broken into its main concepts. For every concept you'll find:
-- A **plain-English explanation** (no jargon)
-- A **diagram**, where a picture helps
-- **3 worked examples**
-
----
 
 ## Chapter 1: Patterns in Mathematics
 
