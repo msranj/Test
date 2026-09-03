@@ -1,4 +1,4 @@
-# Class 6 Maths — All Concepts Explained Simply
+# Class 6 Maths — All Concepts Explained in Simple
 
 
 
