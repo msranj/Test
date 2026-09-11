@@ -7,7 +7,7 @@ source:
 some things to know 
 Number Line:
 
-|-----------------------|
+|-----------------------|  
 0 1 2 3 
 
 consider below Big number
