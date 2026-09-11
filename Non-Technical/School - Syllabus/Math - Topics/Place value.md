@@ -20,22 +20,32 @@ consider below Big number
 2nd values: tens
 3rd values: hundreds
 
-so, for 459
+so, for 1,784,653,201,459
 lets categorize each number according to its place
 
-1 4  5  9
-    |  |  |
-    |  |  |
-    |  |  Ones
-    |  Tens
-    Hundreds
-Thousands
+
+0   1 4  5  9
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  Ones
+|   |  |  Tens
+|   |   Hundreds
+|Ten-Thousands
+
+
 so, 
 - place value of 9: Ones (i.e 9 ones or 9-1's)
 - place value of 5: Ones (i.e 5 tens or 5-10's)
 - place value of 4: Ones (i.e 4 Hundreds or 4-100's)
 
 
+#### Expanded form
+- gives us a basis for addition & subtraction.
+- to undertsand this, we need to analyze the place values
+
+for example:
+4,382 ---> 4000 + 300 + 80 + 2
+so the 4382: is the sum of the place value of each number in the digit as shown above.
 
 
 
