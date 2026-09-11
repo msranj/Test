@@ -16,24 +16,15 @@ consider below Big number
 - every above numbers have place value.
 - a position each digit in a number.
 
-1st value: Ones
-2nd values: tens
-3rd values: hundreds
+1st value: Ones  
+2nd values: tens  
+3rd values: hundreds  
 
-so, for 1,784,653,201,459
-lets categorize each number according to its place
+so, for 1,784,653,201,459  
+lets categorize each number according to its place  
 
-
-2   0  1  4  5  9
-|   |  |  |  |  |
-|   |  |  |  |  |
-|   |  |  |  | Ones
-|   |  |  |  Tens
-|   |  |  Hundreds
-|   |  |Thousands
-|   Ten-Thousands
-|Lakhs
-
+![Place values of each digit](image.png)
+  
 so, 
 - place value of 9: Ones (i.e 9 ones or 9-1's)
 - place value of 5: Ones (i.e 5 tens or 5-10's)
