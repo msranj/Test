@@ -28,7 +28,7 @@ lets categorize each number according to its place
 so, 
 - place value of 9: Ones (i.e 9 ones or 9-1's)
 - place value of 5: Ones (i.e 5 tens or 5-10's)
-- place value of 4: Ones (i.e 4 Hundreds or 4-100's)
+- place value of 4: Ones (i.e 4 Hundreds or 4-100's)  
 and so on..
 
 #### Expanded form
@@ -36,8 +36,8 @@ and so on..
 - to undertsand this, we need to analyze the place values
 
 for example:
-4,382 ---> 4000 + 300 + 80 + 2
-so the 4382: is the sum of the place value of each number in the digit as shown above.
+4,382 ---> 4000 + 300 + 80 + 2  
+so the 4382 = is the sum of the place value of each number in the digit as shown above.
 
 
 
