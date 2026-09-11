@@ -24,20 +24,21 @@ so, for 1,784,653,201,459
 lets categorize each number according to its place
 
 
-0   1 4  5  9
-|   |  |  |  |
-|   |  |  |  |
-|   |  |  |  Ones
-|   |  |  Tens
-|   |   Hundreds
-|Ten-Thousands
-
+2   0  1  4  5  9
+|   |  |  |  |  |
+|   |  |  |  |  |
+|   |  |  |  | Ones
+|   |  |  |  Tens
+|   |  |  Hundreds
+|   |  |Thousands
+|   Ten-Thousands
+|Lakhs
 
 so, 
 - place value of 9: Ones (i.e 9 ones or 9-1's)
 - place value of 5: Ones (i.e 5 tens or 5-10's)
 - place value of 4: Ones (i.e 4 Hundreds or 4-100's)
-
+and so on..
 
 #### Expanded form
 - gives us a basis for addition & subtraction.
