@@ -21,7 +21,12 @@ flowchart LR
  
 # PART 1: BASIC SUMMARY (100 words)
  
-*The Rules of Money* argues that wealth isn't luck, inheritance, or talent — it's a learnable skill built from 107 practical habits. Richard Templar organizes these into five stages: first, **think** like a wealthy person (drop poverty myths, define what "rich" means to you); then **get** wealthy (budget, save, invest, negotiate, avoid debt); then **get even wealthier** (find mentors, spot opportunities, read financial statements); then **stay** wealthy (protect what you've built from bad decisions, poor insurance, and overspending); and finally **share** wealth wisely (give without creating dependency, raise grounded children, avoid being flattered out of your money).
+*The Rules of Money* argues that wealth isn't luck, inheritance, or talent — it's a learnable skill built from 107 practical habits. Richard Templar organizes these into five stages:  
+1.**Think** like a wealthy person (drop poverty myths, define what "rich" means to you);  
+2. **Get** wealthy (budget, save, invest, negotiate, avoid debt);  
+3. **Get even wealthier** (find mentors, spot opportunities, read financial statements);   
+4. **Stay** wealthy (protect what you've built from bad decisions, poor insurance, and overspending);  
+5. **Share** wealth wisely (give without creating dependency, raise grounded children, avoid being flattered out of your money).
  
 ---
  
