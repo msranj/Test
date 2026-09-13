@@ -11,6 +11,8 @@
 ## check python version
 python --version
 
+# simple print statement
+print("hello world")
 
 
 
