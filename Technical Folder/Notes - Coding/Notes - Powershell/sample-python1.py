@@ -12,7 +12,7 @@
 python --version
 
 # simple print statement
-print("hello world")
+# print("hello world")
 
 
 
