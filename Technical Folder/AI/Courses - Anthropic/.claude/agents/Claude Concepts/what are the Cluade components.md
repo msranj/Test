@@ -8,7 +8,6 @@ What are
 [Brock Mesarich | AI for Non Techies
 ](https://www.youtube.com/watch?v=NDHWUhGzKg0)
 
-
 ### workspace folder
 - this is the folder where all our files are going to exist inside of claude.
 
