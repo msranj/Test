@@ -41,11 +41,19 @@ What are
 
 ### Memory
 - basically how claude understands all the conversations you have with it, has context on different things you wanted to do and you have done previously. 
+- you can have whatever instructions/tasks/steps to claude to add to the memory.
 
-- 
+### Context window
+- imagine its like a desk for every conversation that you have with claude 
+- you can fill 1 Million tokens, which is basically what its called and inside it has claude MD, memory files, system prompts, any conversation that is coming both in and out of claude, different files and documents that we have in there and different tool outputs that we use within side of our conversation. 
 
-
-
+### Multimodal 
+- claude can see 
+    1. Images
+    Screenshots
+    Charts
+    PDFs
+    
 
 
 
