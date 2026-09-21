@@ -17,3 +17,32 @@ Mid-term exams
 | 07-10-2026 | Wednesday | Science        |
 | 08-10-2026 | Thursday  | SL             |
 | 09-10-2026 | Friday    | Computer       |
+
+
+
+#### Portions for Subjects
+----------------------------
+#### Maths
+- 
+
+#### English
+- 
+
+#### EVS / Science
+- 
+#### Kannada (SL)
+- 
+#### HINDI (TL)
+- 
+#### Social
+- 
+#### Hindi
+- 
+#### Computer
+- 
+#### GK
+- 
+#### ABACUS
+- 
+
+

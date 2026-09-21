@@ -20,3 +20,22 @@
 | Wednesday, 7 October 2026    | **Holiday**  |
 | Thursday, 8 October 2026     | Eng Lang |
 
+
+#### Portions for Subjects
+----------------------------
+#### Maths
+- 
+
+#### Science
+- 
+
+#### Eng Litr
+- 
+#### SST
+- 
+#### Kannada
+- 
+#### English
+- 
+- 
+
