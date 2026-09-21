@@ -1,4 +1,7 @@
-
+### Profile:
+--------
+- Needs focus on English Language writing & comprehension.
+- More practice needs on writing english.
 
 
 ![Manasvi-Midterm-exams](image.png)
