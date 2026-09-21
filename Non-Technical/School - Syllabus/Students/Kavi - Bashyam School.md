@@ -2,7 +2,6 @@
 ### Mid-term Exam 
 
 | Date              | Subject       |
-
 | ----------------- | ------------- |
 | 30 September 2026 | Maths         |
 | 5 October 2026    | English       |
