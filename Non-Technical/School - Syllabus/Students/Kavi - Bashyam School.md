@@ -1,5 +1,5 @@
 
-### Bashyam School - Mid-term Exam 
+### Mid-term Exam 
 
 | Date              | Subject       |
 | ----------------- | ------------- |
