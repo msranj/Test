@@ -14,20 +14,21 @@
 
 
 #### Portions for Subjects
-### Maths
+----------------------------
+#### Maths
 
-### English
+#### English
 
-### EVS / Science
+#### EVS / Science
 
-### Kannada
+#### Kannada
 
-### Social
+#### Social
 
-### Hindi
+#### Hindi
 
-### Computer
+#### Computer
 
-### GK
+#### GK
 
 
