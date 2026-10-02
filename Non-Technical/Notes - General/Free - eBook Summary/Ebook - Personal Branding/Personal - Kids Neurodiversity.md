@@ -1,5 +1,5 @@
 
-Neurodiver sity-Affirming HANDBOOK 
+# Neurodiversity - Affirming HANDBOOK 
 - Megan Mott
 - Dani Rodwell
 
