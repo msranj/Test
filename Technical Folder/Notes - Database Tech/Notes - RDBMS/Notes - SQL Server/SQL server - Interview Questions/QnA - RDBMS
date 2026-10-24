@@ -1,0 +1,113 @@
+
+
+________Questions on: RDBMS_________
+
+
+What is a candidate key?  
+
+	Ans: A candidate key is one that can uniquely identify each row of a table. 
+	
+    Generally, a candidate key becomes the primary key of the table. If the table has more than one  
+	
+    candidate key, one of them will become the primary key and the rest are called alternate keys.
+	
+What is difference between DBMS & RDBMS?  
+	- DBMS
+		○ Utilizes Heap Memory.
+		○ For every record, executor has to ask for main db for data.
+	- RDBMS
+		For every record, executor has DON’T Have to ask for main db for data, as there is execution plan, result set 
+		is available. i.e. No Round trip is required.
+		
+		
+What are alternate keys?  
+		Ans: Any candidate keys not chosen as the primary key.
+	
+What is a primary key?
+		Ans: A primary key is a special candidate key. It is an attribute or minimal set of attributes that not only uniquely 
+		identifies a specific occurrence of the entity, but also exists for every occurrence of an entity. 
+		The difference between a primary key and any other unique key is that SQL server automatically uses the primary key 
+		definition in various Referential integrity constructs.
+	
+		In other words, the primary key is a field (or set of fields) that uniquely identifies each record of a table. 
+		A table can have only one key declared as primary. If a primary key consists of more than one column, duplicate 
+		values are allowed in one of the columns, but the combination of values from all the columns in the primary key 
+		must be unique.
+	
+How many types of database relationship in SQL server?
+		There are three types of database relationship exist in SQL server:
+			○ One to One Relationship
+			○ Many to Many relationship
+			○ One to One relationship
+
+Is there any difference between primary key and unique with the NOT NULL condition?
+		Ans: Unique key will allow single NULL, 
+				but in the primary key, no NULL is accepted.
+	
+What is Normalization?
+		Ans:  In RDBMS, the process dividing database into tables & relationships for organizing data & 
+		      minimize redundancy, surety of logical data integrity is called normalization. 
+		      In normalization, the database is divided into two or more tables, and a relationship is defined  
+		      among the tables. Normalization technique increases performance for the database.
+	
+			Types of Normalization
+				There are types of normalization used, which are given below.
+					® 1NF
+					® 2NF
+					® 3NF
+					® BCNF
+					® 4NF
+					® 5NF
+			However, the first three types are only frequently used, where "NF" stands for normal form. The originator of 
+			the RD model "E.F Codd" has proposed the process "normalization" with the first "normal form" and continued 
+			till third normal form.
+
+What is De-Normalization?
+		Ans:  It is a process of attempting to optimize the performance of a database by adding redundant data. 
+			  Redundancy is introduced intentionally in a table to improve performance, and it is called de-normalization.  
+			  The de-Normalization process enhances the read performance while some degradation occurs in write performance. 
+	
+			  It can be achieved by making a group of data in the redundant form. The un-normalized and de-Normalized  
+			  database are completely different from each other. Before the process of de-normalization of any database, that  
+			  should be normalized firstly.
+	
+Define the one-to-one relationship while designing tables.
+		Ans:  One-to-One relationship: 
+				One to one relationship exists if an entity in one table has a link with only one entity on another table. 
+				Let's take an example of the employee and their employee id so that a unique employee id will be there for a 
+				particular employee at another table.
+	
+What is CHECK constraint in SQL Server?
+		Ans: A CHECK constraint is applied to a column in a table to limit the values that can be placed in a column. It  
+		     enforces integrity. After using the check constraint on the single column, we can only give some specific values 
+		     for that particular column. Check constraint apply a condition for each column in the table.
+		
+		EXAMPLE:
+		    CREATE TABLE Employee (  
+		    EMP_ID int NOT NULL,  
+		    LastName varchar(255) NOT NULL,  
+		    FirstName varchar(255),  
+		    Age int,  
+		    City varchar(255),  
+		    CONSTRAINT CHK_Employee CHECK (Age>20AND City= 'Greenville')  
+		);  
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
