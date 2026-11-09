@@ -16,8 +16,7 @@ two words come together to make one name.
 
 ### Everyday examples
 
--   **tooth + brush = toothbrush** -- something we use to clean our
-    teeth.
+-   **tooth + brush = toothbrush** -- something we use to clean our     teeth.
 -   **rain + coat = raincoat** -- something we wear in the rain.
 -   **class + room = classroom** -- the room where we learn.
 -   **sun + flower = sunflower** -- a flower that looks towards the sun.
