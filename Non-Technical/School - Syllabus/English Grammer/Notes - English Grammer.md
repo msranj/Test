@@ -942,128 +942,82 @@ we were ready. 5. Mother asked me to wash my hands.
 
 ------------------------------------------------------------------------
 
-## 20. Kinds of Sentences
 
-### What is a sentence?
+ves a 
+ the 
 
-A **sentence** is a group of words that gives a complete thought. It
-begins with a capital letter and ends with the correct punctuation mark.
 
-There are four common kinds of sentences.
+ises in 
+s.
+p (.)**.
 
-### 1. Statements -- telling something
+s my 
 
-A statement gives information. - The sun rises in the east. - My school
-has a playground. - I enjoy reading stories.
+**.
+ asking 
+e door. 
 
-A statement usually ends with a **full stop (.)**.
+*full 
 
-### 2. Questions -- asking something
+eling
+prise, 
+y! We 
 
-A question asks for information. - Where is my pencil? - What time is
-lunch? - Have you finished your homework?
+mark (!)
 
-A question ends with a **question mark (?)**.
 
-### 3. Commands and requests -- telling or asking someone to do something
+la. - 
 
-A command gives an instruction. - Close the door. - Please pass the
-salt. - Keep your classroom clean.
 
-Commands and requests usually end with a **full stop (.)**. A strong
-command may use an exclamation mark.
+--------
+        
+------- 
+        
+        
+meone   
+        
+eeling  
+--------
 
-### 4. Exclamations -- showing a strong feeling
+your 
 
-An exclamation shows strong happiness, surprise, fear or another
-feeling. - What a lovely painting! - Hurray! We won the match! - How
-beautiful the stars are!
 
-An exclamation ends with an **exclamation mark (!)**.
+n 3. 
 
-### One situation, four sentences
+--------
 
-Imagine it is raining: - Statement: It is raining. - Question: Is it
-raining? - Request: Please bring my umbrella. - Exclamation: What heavy
-rain!
+--------
+        
+------- 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+n       
+        
+        
+        
+        
+        
+reement 
+        
+jective 
+rb      
+        
+ison    
+        
+        
+        
+speech  
+        
+        
+        
+--------
 
-### Remember the punctuation
 
-  -----------------------------------------------------------------------
-  Kind                    Purpose                 Ending mark
-  ----------------------- ----------------------- -----------------------
-  Statement               tells                   Full stop (.)
 
-  Question                asks                    Question mark (?)
-
-  Command/request         tells or asks someone   Usually full stop (.)
-                          to do something         
-
-  Exclamation             shows a strong feeling  Exclamation mark (!)
-  -----------------------------------------------------------------------
-
-### Try it
-
-Name the kind of sentence. 1. Please open your notebook. 2. Where do you
-live? 3. The birds are singing. 4. What a wonderful surprise! 5. Do not
-run in the corridor.
-
-**Answers:** 1. Command/request 2. Question 3. Statement 4. Exclamation
-5. Command
-
-------------------------------------------------------------------------
-
-# Quick Revision: Grammar Clues
-
-  -------------------------------------------------------------------------
-  If the word...          It may be...            Example
-  ----------------------- ----------------------- -------------------------
-  joins two words to make compound noun           toothbrush
-  one name                                        
-
-  can be counted one by   countable noun          four apples
-  one                                             
-
-  names something         uncountable noun        some milk
-  measured rather than                            
-  counted                                         
-
-  replaces a naming word  pronoun                 she, they, mine
-
-  shows who owns          possessive              my bag / mine
-  something               adjective/pronoun       
-
-  ends in -ing and shows  -ing form               running, reading
-  an action or activity                           
-
-  is used with has, have  past participle         has eaten
-  or had                                          
-
-  tells what someone has  have/has/had            She has a kite.
-
-  matches the subject     subject--verb agreement He plays.
-
-  describes a naming word adjective               a bright star
-
-  points to a naming word demonstrative adjective those books
-
-  tells where, when or    preposition/adverb      under / slowly
-  how                     (check its job)         
-
-  compares a quality or   degree of comparison    taller / faster
-  action                                          
-
-  joins words or ideas    conjunction             and, because
-
-  shows a sudden feeling  interjection            Ouch!
-
-  reports a speaker's     direct/indirect speech  "I am fine." / He said he
-  words                                           was fine.
-
-  tells, asks, directs or kind of sentence        statement/question/etc.
-  expresses a feeling                             
-  -------------------------------------------------------------------------
-
-in one sitting. Read a small section,
-ur own sentence, and practise a little
-when you notice it in the things you
