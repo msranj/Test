@@ -2,13 +2,7 @@
 
 # Grade 4 - English Grammar Notes
 
-## Clear explanations, everyday examples and friendly practice
-
-**For students:** Read one topic at a time. Notice the examples, try the
-practice questions, and then check your answers. Remember: making
-mistakes is part of learning!
-
-------------------------------------------------------------------------
+----------------------------
 
 ## 1. Compound Nouns
 
@@ -52,40 +46,4 @@ is one object, not a tooth and a brush being discussed separately.
 (either suitable answer) 5. Answers will vary.
 
 ------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
