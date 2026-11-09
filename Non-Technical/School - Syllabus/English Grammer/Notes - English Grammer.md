@@ -724,62 +724,11 @@ horse ran **fast**. 5. The children are waiting **here**.
 
 ------------------------------------------------------------------------
 
-## 16. Adverbs II: Degrees of Comparison
 
-### Comparing actions
 
-Adverbs can also compare how actions are done.
 
-Imagine three friends completing a puzzle: - Aarav worked
-**carefully**. - Meera worked **more carefully** than Aarav. - Tara
-worked **most carefully** of all.
 
-### Three degrees
 
-1.  **Positive:** carefully
-2.  **Comparative:** more carefully
-3.  **Superlative:** most carefully
-
-### Examples
-
-  Positive    Comparative      Superlative
-  ----------- ---------------- ----------------
-  fast        faster           fastest
-  hard        harder           hardest
-  soon        sooner           soonest
-  carefully   more carefully   most carefully
-  slowly      more slowly      most slowly
-  well        better           best
-  badly       worse            worst
-
-### How to use them
-
--   "Ravi runs **fast**."
--   "Ravi runs **faster than** Aman."
--   "Ravi runs **fastest** in the team."
-
-For many adverbs ending in **-ly**, use **more** and **most**: - more
-gently - most gently
-
-### Remember
-
-Adjectives describe naming words. Adverbs often tell us more about
-actions. - "She is a **careful** driver." (*careful* describes the
-driver.) - "She drives **carefully**." (*carefully* tells us how she
-drives.)
-
-### Try it
-
-1.  Write the comparative form of **fast**.
-2.  Write the superlative form of **slowly**.
-3.  Complete: well, better, \_\_\_\_\_.
-4.  Choose: He spoke (more politely/most politely) than his brother.
-5.  Choose: Of all the runners, Sara ran (faster/fastest).
-
-**Answers:** 1. faster 2. most slowly 3. best 4. more politely 5.
-fastest
-
-------------------------------------------------------------------------
 
 
 
