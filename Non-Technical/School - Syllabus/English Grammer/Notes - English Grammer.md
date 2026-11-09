@@ -221,65 +221,16 @@ pronoun that completes the sentence.)*
 
 ------------------------------------------------------------------------
 
-## 5. Possessive Adjectives and Possessive Pronouns
 
-Both types show **ownership** -- who something belongs to.
 
-### Possessive adjectives
 
-A possessive adjective comes **before a naming word**. It tells us whose
-thing it is.
 
--   my pencil
--   your bottle
--   his cap
--   her bag
--   its tail
--   our classroom
--   their house
 
-Example: "This is **my** lunch box." The word *my* comes before *lunch
-box*.
 
-### Possessive pronouns
 
-A possessive pronoun replaces the naming word and can stand on its own.
 
--   mine
--   yours
--   his
--   hers
--   ours
--   theirs
 
-Example: - "This lunch box is **mine**." - "That blue bag is **hers**."
 
-### Compare them
-
-  Possessive adjective      Possessive pronoun
-  ------------------------- --------------------------
-  This is **my** book.      This book is **mine**.
-  Is that **your** ruler?   Is that ruler **yours**?
-  It is **their** house.    The house is **theirs**.
-
-### Important
-
--   **Its** shows that something belongs to an animal or thing: "The
-    bird cleaned **its** feathers."
--   **It's** means **it is** or **it has**: "**It's** raining." The
-    apostrophe changes the meaning.
-
-### Try it
-
-1.  This is (my/mine) pencil.
-2.  The red bicycle is (our/ours).
-3.  The puppy is wagging (its/it's) tail.
-4.  That water bottle belongs to Sara. It is (her/hers).
-5.  This classroom belongs to us. It is (our/ours).
-
-**Answers:** 1. my 2. ours 3. its 4. hers 5. ours
-
-------------------------------------------------------------------------
 
 
 
