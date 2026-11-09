@@ -677,52 +677,6 @@ tunnel. (through/under) 5. The class begins \_\_\_\_\_ 9 o'clock.
 
 ------------------------------------------------------------------------
 
-## 15. Adverbs I: Manner, Place and Time
-
-### What is an adverb?
-
-An **adverb** gives us more information about an action. It can tell us
-how, where or when something happens.
-
-Think about a student walking into class: - She walked **quietly**.
-(How?) - She waited **outside**. (Where?) - She arrived **early**.
-(When?)
-
-### 1. Adverbs of manner -- how?
-
-They tell us how an action is done. - The baby smiled **happily**. - The
-tortoise walked **slowly**. - Please write **neatly**. - The boy
-answered **politely**.
-
-Many adverbs of manner end in **-ly**, but not all do: - The car moved
-**fast**. - The child sang **well**.
-
-### 2. Adverbs of place -- where?
-
-They tell us where an action happens. - Come **here**. - The children
-are playing **outside**. - The birds flew **away**. - Please look
-**upstairs**.
-
-### 3. Adverbs of time -- when?
-
-They tell us when an action happens. - We will leave **tomorrow**. - I
-finished my work **yesterday**. - The bus arrived **early**. - Dad is
-coming **soon**.
-
-### A quick way to find them
-
-Ask a question about the action: - How did she speak? **Softly.** -
-Where did they play? **Outside.** - When did he arrive? **Yesterday.**
-
-### Try it
-
-Name the type of adverb in bold. 1. The girl danced **gracefully**. 2.
-Please come **inside**. 3. We will visit Grandma **tomorrow**. 4. The
-horse ran **fast**. 5. The children are waiting **here**.
-
-**Answers:** 1. Manner 2. Place 3. Time 4. Manner 5. Place
-
-------------------------------------------------------------------------
 
 
 
