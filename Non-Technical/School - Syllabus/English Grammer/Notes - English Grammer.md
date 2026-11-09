@@ -328,72 +328,12 @@ sleeping 7. Reading
 
 ------------------------------------------------------------------------
 
-## 7. Past Participles and Perfect Tenses
 
-### What is a past participle?
 
-A **past participle** is a special form of a verb. We use it with **has,
-have** or **had** to talk about actions that are completed.
 
-Examples: - play → played - clean → cleaned - eat → eaten - write →
-written - see → seen - go → gone
 
-Some verbs form the past participle by adding **-ed**. Others change in
-a different way, so we learn them as we read and write.
 
-### Three perfect tenses
 
-**1. Present perfect: has/have + past participle**
-
-Use it for an action that has happened and is connected to now. - I
-**have finished** my homework. - She **has eaten** breakfast. - They
-**have visited** the zoo.
-
-Use **has** with he, she, it and one person or thing. Use **have** with
-I, you, we, they and plural naming words.
-
-**2. Past perfect: had + past participle**
-
-Use it to show that one action was completed before another past
-action. - I **had packed** my bag before the bus arrived. - The film
-**had started** before we entered.
-
-**3. Future perfect: will have + past participle**
-
-Use it for an action that will be completed before a time in the
-future. - By 8 o'clock, I **will have finished** dinner. - By Friday, we
-**will have completed** the project.
-
-### A simple timeline
-
--   Present perfect: completed action connected to now.
--   Past perfect: completed before another past event.
--   Future perfect: completed before a future time.
-
-### Common verb forms
-
-  Base verb   Past form   Past participle
-  ----------- ----------- -----------------
-  play        played      played
-  go          went        gone
-  eat         ate         eaten
-  write       wrote       written
-  see         saw         seen
-  break       broke       broken
-  take        took        taken
-  do          did         done
-
-### Try it
-
-1.  The children have \_\_\_\_\_ (finish) their work.
-2.  Mother has \_\_\_\_\_ (make) a cake.
-3.  We had \_\_\_\_\_ (leave) before it rained.
-4.  By tomorrow, I will have \_\_\_\_\_ (complete) the chart.
-5.  Write the past participle of **see**.
-
-**Answers:** 1. finished 2. made 3. left 4. completed 5. seen
-
-------------------------------------------------------------------------
 
 
 
