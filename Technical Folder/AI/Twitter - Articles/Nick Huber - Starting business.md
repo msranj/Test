@@ -1,11 +1,8 @@
 
 ---
-source: Nick Huber --- X article
-source_url: "https://x.com/sweatystartup/status/2117752080475562317"
-subtitle: A concise, critical reading guide with a real-world
-  application
-title: 9 Practical Rules for Starting a Business
----
+source: Nick Huber --- X article  
+source_url: "https://x.com/sweatystartup/status/2117752080475562317"  
+--
 
 # 9 Practical Rules for Starting a Business
 
