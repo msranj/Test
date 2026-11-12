@@ -1,5 +1,85 @@
 # Python Skill Roadmap — In-Depth Syllabus
 
+#### Tree diagram of Python Roadmap
+
+
+PYTHON SKILL ROADMAP
+
+
+#### Python Basics  
+├──  Variables & Data Types  
+├──  Input & Output  
+├──  Operators  
+├──  Conditional Statements  
+└──  Loops  
+
+#### Core Python Concepts  
+├──  Lists  
+├──  Tuples  
+├──  Sets  
+├──  Dictionaries  
+├──  Strings  
+└──  Functions
+
+####  Problem Solving  
+├──  Patterns  
+├──  Number Problems  
+├──  String Problems  
+├──  List Problems  
+├──  Searching  
+└──  Sorting Basics  
+
+#### Object-Oriented Python  
+├──  Classes & Objects  
+├──  Constructors  
+├──  Inheritance  
+├──  Encapsulation  
+├──  Polymorphism  
+└──  Real OOP Examples  
+
+
+####  File Handling & Errors  
+├──  Read Files  
+├──  Write Files  
+├──  CSV Files  
+├──  JSON Files  
+├──  Exception Handling  
+└──  Logging Basics  
+
+
+#### Python Libraries  
+├──  NumPy Basics  
+├──  Pandas Basics  
+├──  Matplotlib Basics  
+├──  Requests  
+├──  BeautifulSoup  
+└──  Streamlit Basics  
+
+#### Automation Skills  
+├──  File Organizer  
+├──  Email Automation  
+├──  Web Scraping  
+├──  API Automation  
+├──  Excel Automation  
+└──  Task Scheduler  
+
+####  Backend Basics  
+├──  Flask Basics  
+├──  FastAPI Basics  
+├──  REST APIs  
+├──  Databases  
+├──  Authentication Basics  
+└──  Deploy Your API  
+
+#### Portfolio Projects  
+├──  Expense Tracker  
+├──  Weather App  
+├──  Web Scraper  
+├──  URL Shortener  
+├──  Automation Bot  
+└──  AI Note Summarizer  
+
+
 ## Realistic Timeline
 
 | Pace | Time to "can contribute to a real project" |
