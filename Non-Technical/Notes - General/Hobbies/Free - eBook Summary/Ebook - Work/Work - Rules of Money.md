@@ -8,12 +8,20 @@ Rules of money 30min guide · MD
  
 ## How This Guide Works
  
-This guide distills a 196-page, 107-rule book into three layers, each going one level deeper. Read Part 1 in two minutes if that's all you have. Read all three parts for the full 30-minute experience.
+This guide distills a 196-page, 107-rule book into three layers, each going one level deeper. 
+
+Read Part 1 in two minutes if that's all you have. Read all three parts for the full 30-minute experience.
  
 ```mermaid
 flowchart LR
-    A["📖 Part 1\nBasic Summary\n~2 min"] --> B["🧩 Part 2\nIntermediate\nChapter Breakdown\n~10 min"]
-    B --> C["🔍 Part 3\nDetailed Examples\n~15 min"]
+
+    A["📖 
+Part 1\nBasic Summary\n~2 min"] --> B["🧩
+ Part 2\nIntermediate\nChapter Breakdown\n~10 min"]
+
+    B --> C["🔍 
+Part 3\nDetailed Examples\n~15 min"]
+
     C --> D["🗺️ Knowledge Graph\nFor Future Reference\n~3 min"]
 ```
  
@@ -22,10 +30,15 @@ flowchart LR
 # PART 1: BASIC SUMMARY (100 words)
  
 *The Rules of Money* argues that wealth isn't luck, inheritance, or talent — it's a learnable skill built from 107 practical habits. Richard Templar organizes these into five stages:  
+
 1.**Think** like a wealthy person (drop poverty myths, define what "rich" means to you);  
+
 2. **Get** wealthy (budget, save, invest, negotiate, avoid debt);  
-3. **Get even wealthier** (find mentors, spot opportunities, read financial statements);   
+
+3. **Get even wealthier** (find mentors, spot opportunities, read financial statements); 
+  
 4. **Stay** wealthy (protect what you've built from bad decisions, poor insurance, and overspending);  
+
 5. **Share** wealth wisely (give without creating dependency, raise grounded children, avoid being flattered out of your money).
  
 ---
