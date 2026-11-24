@@ -5,10 +5,9 @@
 - Take action: Build a practical roadmap to start your own plant breeding business.
 
 ### Prompt 1: Understand the entire book from scratch
-I am uploading an ebook about plant breeding.
+I am uploading an ebook.
 
-I want you to teach me everything in this book as if I am a complete beginner. 
-Your job is to turn this ebook into a simple, easy-to-understand learning guide.
+I want you to teach me everything in this book as if I am a complete beginner. Your job is to turn this ebook into a simple, easy-to-understand learning guide in .md file format.
 
 Follow these instructions:
 
@@ -20,15 +19,13 @@ Follow these instructions:
 - Use simple comparisons, stories, and practical examples wherever possible.
 - Do not skip important information just because it appears complicated.
 
-Organize your teaching into chapters and lessons.
-
-At the end of each chapter, provide:
+Organize your teaching into chapters and lessons. At the end of each chapter, provide:
 
 A simple summary.
 - Five important things I should remember.
 - Five questions to test my understanding.
 - A real-world example showing how the knowledge is used.
 
-IMPORTANT: Teach me step by step. Do not assume I already understand anything. Do not simply summarize the book. Actually teach me the concepts.
-
-Use the ebook as your primary source. Clearly mention if something important is not covered in the book.
+IMPORTANT: 
+- Teach me step by step. Do not assume I already understand anything. Do not simply summarize the book. Actually teach me the concepts.
+- Use the ebook as your primary source. Clearly mention if something important is not covered in the book.
