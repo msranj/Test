@@ -1,10 +1,5 @@
-### To get the maximum value from ebook, we need to use 3 prompts in sequence. Each prompt has a different purpose:
 
-- Understand the subject: Learn plant breeding from absolute zero.
-- Understand the business: Learn how to turn plant breeding knowledge into a business.
-- Take action: Build a practical roadmap to start your own plant breeding business.
-
-### Prompt 1: Understand the entire book from scratch
+# Prompt
 I am uploading an ebook.
 
 I want you to teach me everything in this book as if I am a complete beginner. Your job is to turn this ebook into a simple, easy-to-understand learning guide in .md file format.
